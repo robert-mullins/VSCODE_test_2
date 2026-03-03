@@ -1,5 +1,13 @@
 ---
 title: "robert-mullins"
+image: relative/path/to/your/image.jpg
+about:
+  template: broadside
+  links: # create buttons
+    - icon: linkedin 
+      text: LinkedIn
+      href: https://www.linkedin.com/in/robert-mullins-176006319/
+
 ---
 
 This is a Quarto website.
